@@ -109,6 +109,16 @@ Some companies ask one. The more common coding round uses Python on data: parsin
 
 An engineer who writes SQL at work usually needs four weeks at about 8 hours a week. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time by round.
 
+## Free reading on DesignGurus.io
+
+- Free article: [Data engineering system design](https://www.designgurus.io/blog/data-engineering-system-design?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how to design a pipeline from source to serving layer.
+- Free article: [Data engineering interviews](https://www.designgurus.io/blog/data-engineering-interviews-how-to-stand-out-in-a-competitive-field?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how to prepare and what separates strong candidates.
+- Free article: [Data warehouse design](https://www.designgurus.io/blog/data-warehouse-design?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): schemas, design steps, and best practices.
+- Free article: [Change data capture](https://www.designgurus.io/blog/change-data-capture?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how systems stay in sync in real time.
+- Free article: [Exactly-once delivery](https://www.designgurus.io/blog/exactly-once-delivery?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): why the guarantee is hard and how Kafka provides it.
+- Free article: [Kafka Streams vs Apache Flink vs Apache Storm](https://www.designgurus.io/blog/kafka-streams-apache-flink-apache-storm?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): a comparison of three stream processing engines.
+- Free answer: [Batch processing vs stream processing](https://www.designgurus.io/answers/detail/what-is-batch-processing-vs-stream-processing-and-when-should-you-use-each?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): when to use each approach.
+
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme) covers every round on this page with worked lessons, diagrams, and assessments.

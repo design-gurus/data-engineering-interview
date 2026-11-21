@@ -80,3 +80,4 @@ A data contract is an agreement between the team that produces data and the team
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-data-quality-and-testing) has a Data Quality and Reliability module with five lessons.
 - [Design a data quality monitoring system](../questions/design-a-data-quality-monitoring-system.md) turns these checks into a platform.
+- Free answer: [How to handle schema drift in JSON, Protobuf, and Avro](https://www.designgurus.io/answers/detail/how-would-you-handle-schema-drift-in-jsonprotobufavro?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-data-quality-and-testing), which covers the schema changes that a data contract guards against.

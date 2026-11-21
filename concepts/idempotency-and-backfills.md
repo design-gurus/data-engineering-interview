@@ -68,3 +68,4 @@ A streaming job has no date partitions to rerun. Two options exist: replay the l
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-idempotency-and-backfills) has lessons on idempotent pipelines, backfills, and jobs that can rerun.
 - [Orchestration](orchestration.md) explains how a scheduler passes the data interval to a job.
+- Free article: [Idempotency in system design](https://www.designgurus.io/blog/grokking-idempotency?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-idempotency-and-backfills), which explains the same property for services and APIs.

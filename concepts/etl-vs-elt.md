@@ -62,3 +62,5 @@ Each layer is rebuilt from the one before it. No job edits the raw layer.
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-etl-vs-elt) builds one pipeline both ways and compares the cost.
 - [Idempotency and backfills](idempotency-and-backfills.md) explains how the rerun is made safe.
+- Free answer: [What a data pipeline is and how to design one](https://www.designgurus.io/answers/detail/what-is-a-data-pipeline-and-how-do-you-design-one-for-processing-big-data-etlelt-systems?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-etl-vs-elt), which covers ETL and ELT systems for large data volumes.
+- Free answer: [What dbt is in data engineering](https://www.designgurus.io/answers/detail/what-is-dbt-in-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-etl-vs-elt), an introduction to a common tool for the transform step.
