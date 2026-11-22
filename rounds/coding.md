@@ -66,5 +66,8 @@ One trap deserves a mention: `itertools.groupby` groups only adjacent equal keys
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-coding) has a Coding for Data Work module with six lessons on these shapes.
+- Lesson: [Python for Data Problems](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/python-for-data-problems?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-coding), in Grokking the Data Engineering Interview
+- Lesson: [Parsing Messy Files](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/parsing-messy-files?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-coding), in Grokking the Data Engineering Interview
+- Lesson: [Processing Files Larger Than Memory](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/processing-files-larger-than-memory?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-coding), in Grokking the Data Engineering Interview
 - [Idempotency and backfills](../concepts/idempotency-and-backfills.md) explains the rerun follow-up in depth.
 - [Question bank](../cheat-sheets/question-bank.md) lists ten coding questions to practice.

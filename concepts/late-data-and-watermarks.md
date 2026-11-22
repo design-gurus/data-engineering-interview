@@ -68,5 +68,7 @@ With a 3-day lookback, each day is computed 3 times. Compute cost roughly triple
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-late-data-and-watermarks) computes a watermark step by step and covers late data in batch pipelines.
+- Lesson: [Event Time Windows and Watermarks](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/event-time-windows-and-watermarks?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-late-data-and-watermarks), in Grokking the Data Engineering Interview
+- Lesson: [Late Data in Batch Pipelines](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/late-data-in-batch-pipelines?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-late-data-and-watermarks), in Grokking the Data Engineering Interview
 - [Grokking Kafka and Event-Driven Architecture](https://www.designgurus.io/course/grokking-kafka-and-event-driven-architecture?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-late-data-and-watermarks) covers the event log underneath.
 - [Batch vs streaming](batch-vs-streaming.md) explains when a streaming design is needed at all.

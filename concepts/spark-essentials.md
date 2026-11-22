@@ -72,4 +72,6 @@ Too few partitions cause memory errors and disk spills. Too many cause schedulin
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-spark-essentials) reads a real Spark plan and resolves a skewed join.
+- Lesson: [How Spark Runs a Job](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/how-spark-runs-a-job?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-spark-essentials), in Grokking the Data Engineering Interview
+- Lesson: [Spark Joins and Skew](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/spark-joins-and-skew?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-spark-essentials), in Grokking the Data Engineering Interview
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-spark-essentials) covers the MapReduce idea that the shuffle comes from.

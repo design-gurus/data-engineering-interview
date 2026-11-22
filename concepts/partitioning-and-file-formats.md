@@ -65,5 +65,7 @@ A practical target is files between 128 megabytes and 1 gigabyte. A compaction j
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-partitioning-and-file-formats) opens a Parquet file and reads its metadata in the Storage and Processing at Scale module.
+- Lesson: [Inside a Parquet File](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/inside-a-parquet-file?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-partitioning-and-file-formats), in Grokking the Data Engineering Interview
+- Lesson: [Partitioning and File Sizes](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/partitioning-and-file-sizes?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-partitioning-and-file-formats), in Grokking the Data Engineering Interview
 - [Grokking Database Fundamentals for Tech Interviews](https://www.designgurus.io/course/grokking-database-fundamentals-for-tech-interviews?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-partitioning-and-file-formats) covers compression and encoding.
 - [Spark essentials](spark-essentials.md) explains how an engine reads these files.

@@ -138,6 +138,9 @@ Each sale matches the dimension row that was valid on its day. See [slowly chang
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns) teaches each pattern in its Advanced SQL module, plus retention, cohorts, and query plans.
+- Lesson: [Ranking and Ties](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/ranking-and-ties?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns), in Grokking the Data Engineering Interview
+- Lesson: [Gaps and Islands](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/gaps-and-islands?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns), in Grokking the Data Engineering Interview
+- Lesson: [Sessionizing Events](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/sessionizing-events?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns), in Grokking the Data Engineering Interview
 - [Grokking SQL for Tech Interviews](https://www.designgurus.io/course/grokking-sql-for-tech-interviews?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns) covers the foundations and has practice problems.
 - [The SQL round](../rounds/sql.md) explains what interviewers look for.
 - Free answer: [SQL query optimization interview questions](https://www.designgurus.io/answers/detail/what-are-sql-query-optimization-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=cheat-sheets-sql-patterns), which covers the follow-up questions about query speed.

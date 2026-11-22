@@ -84,5 +84,6 @@ Finance needs revenue by 7:00. The pipeline normally takes 50 minutes. Starting 
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-orchestration) covers orchestration with Airflow and scheduling between pipelines.
+- Lesson: [Orchestration with Airflow](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/orchestration-with-airflow?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-orchestration), in Grokking the Data Engineering Interview
 - [Data quality and testing](data-quality-and-testing.md) explains the check that guards publication.
 - Free answer: [Orchestrators compared: Airflow vs Dagster vs Argo](https://www.designgurus.io/answers/detail/orchestrators-compared-airflow-vs-dagster-vs-argo?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-orchestration), a comparison of three common schedulers.

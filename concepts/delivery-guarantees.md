@@ -60,6 +60,8 @@ A worked example: 20 million events a day with a 0.1 percent retry rate produce 
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-delivery-guarantees) covers exactly-once from stream to table in its Streaming module.
+- Lesson: [Exactly Once From Stream to Table](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/exactly-once-from-stream-to-table?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-delivery-guarantees), in Grokking the Data Engineering Interview
+- Lesson: [Exactly Once in Kafka](https://www.designgurus.io/course-play/grokking-kafka-and-event-driven-architecture/doc/exactly-once-in-kafka?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-delivery-guarantees), in Grokking Kafka and Event-Driven Architecture
 - [Grokking Kafka and Event-Driven Architecture](https://www.designgurus.io/course/grokking-kafka-and-event-driven-architecture?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-delivery-guarantees) covers offsets, consumer groups, and transactions.
 - [Idempotency and backfills](idempotency-and-backfills.md) covers the same property for batch jobs.
 - Free article: [Exactly-once delivery](https://www.designgurus.io/blog/exactly-once-delivery?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-delivery-guarantees), which explains why the guarantee is hard and how Kafka provides it.

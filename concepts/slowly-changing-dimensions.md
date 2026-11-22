@@ -75,4 +75,6 @@ The type is chosen for each attribute, not for the whole table. In one store dim
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-slowly-changing-dimensions) covers slowly changing dimensions and point-in-time joins with a worked example.
+- Lesson: [Slowly Changing Dimensions](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/slowly-changing-dimensions?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-slowly-changing-dimensions), in Grokking the Data Engineering Interview
+- Lesson: [Point in Time Joins](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/point-in-time-joins?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=concepts-slowly-changing-dimensions), in Grokking the Data Engineering Interview
 - [Dimensional modeling](dimensional-modeling.md) explains facts, dimensions, and surrogate keys.

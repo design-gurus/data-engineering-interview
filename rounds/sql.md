@@ -78,6 +78,9 @@ Inside one streak, the date and the row number both rise by one each day. Their 
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql) has an Advanced SQL module with ten lessons on these families.
+- Lesson: [Window Functions](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/window-functions?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql), in Grokking the Data Engineering Interview
+- Lesson: [Removing Duplicates](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/removing-duplicates?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql), in Grokking the Data Engineering Interview
+- Lesson: [Order of SQL Query Execution](https://www.designgurus.io/course-play/grokking-sql-for-tech-interviews/doc/order-of-sql-query-execution?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql), in Grokking SQL for Tech Interviews
 - [Grokking SQL for Tech Interviews](https://www.designgurus.io/course/grokking-sql-for-tech-interviews?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql) covers the joins and aggregation that this round assumes.
 - [SQL patterns](../cheat-sheets/sql-patterns.md) lists ten query shapes with a snippet each.
 - Free article: [How a SQL query is executed](https://www.designgurus.io/blog/sql-query-execution-process?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-sql), which explains how a database processes a query.

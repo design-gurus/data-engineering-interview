@@ -109,6 +109,19 @@ Some companies ask one. The more common coding round uses Python on data: parsin
 
 An engineer who writes SQL at work usually needs four weeks at about 8 hours a week. The [four-week plan](cheat-sheets/four-week-plan.md) divides that time by round.
 
+## Course lessons to start with
+
+- [Window Functions](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/window-functions?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): the tool behind most SQL round questions, in Grokking the Data Engineering Interview
+- [Gaps and Islands](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/gaps-and-islands?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how to find streaks of consecutive rows, in Grokking the Data Engineering Interview
+- [Facts Dimensions and Grain](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/facts-dimensions-and-grain?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): the parts of a dimensional model, in Grokking the Data Engineering Interview
+- [Slowly Changing Dimensions](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/slowly-changing-dimensions?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how a dimension table keeps history, in Grokking the Data Engineering Interview
+- [Batch or Streaming](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/batch-or-streaming?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how the freshness requirement decides the design, in Grokking the Data Engineering Interview
+- [Idempotent Pipelines](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/idempotent-pipelines?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how to make a rerun produce the same result, in Grokking the Data Engineering Interview
+- [Event Time Windows and Watermarks](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/event-time-windows-and-watermarks?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how a stream job handles late events, in Grokking the Data Engineering Interview
+- [Partitioning and File Sizes](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/partitioning-and-file-sizes?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how table layout affects query cost, in Grokking the Data Engineering Interview
+- [Clickstream Pipeline: Requirements and Data Model](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/clickstream-pipeline-requirements-and-data-model?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): a full pipeline design answer from the first questions, in Grokking the Data Engineering Interview
+- [Exactly Once in Kafka](https://www.designgurus.io/course-play/grokking-kafka-and-event-driven-architecture/doc/exactly-once-in-kafka?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): what the guarantee covers and where it stops, in Grokking Kafka and Event-Driven Architecture
+
 ## Free reading on DesignGurus.io
 
 - Free article: [Data engineering system design](https://www.designgurus.io/blog/data-engineering-system-design?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=readme): how to design a pipeline from source to serving layer.

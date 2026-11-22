@@ -53,6 +53,8 @@ Store the parts of a ratio, not the ratio. A discount percent averaged across ro
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-data-modeling) has a Data Modeling module covering grain, history, and point-in-time joins.
+- Lesson: [Facts Dimensions and Grain](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/facts-dimensions-and-grain?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-data-modeling), in Grokking the Data Engineering Interview
+- Lesson: [Choosing the Grain](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/choosing-the-grain?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-data-modeling), in Grokking the Data Engineering Interview
 - [Grokking Relational Database Design and Modeling for Software Engineers](https://www.designgurus.io/course/grokking-relational-database-design-and-modeling-for-software-engineers?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-data-modeling) covers normalization, the starting point that analytic models depart from.
 - [Dimensional modeling](../concepts/dimensional-modeling.md) explains facts, dimensions, and schema shapes.
 - Free article: [Normalization vs denormalization](https://www.designgurus.io/blog/normalization-vs-denormalization?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=rounds-data-modeling), a trade-off that interviewers often ask about in this round.

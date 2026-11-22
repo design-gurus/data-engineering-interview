@@ -67,4 +67,6 @@ When a pipeline finishes loading a table, it calls the runner. Blocking checks r
 ## Go deeper
 
 - [Grokking the Data Engineering Interview](https://www.designgurus.io/course/grokking-the-data-engineering-interview?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=questions-design-a-data-quality-monitoring-system) covers data tests, contracts, reconciliation, and recovery in its Data Quality and Reliability module.
+- Lesson: [Reconciliation and Anomaly Checks](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/reconciliation-and-anomaly-checks?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=questions-design-a-data-quality-monitoring-system), in Grokking the Data Engineering Interview
+- Lesson: [Monitoring and Recovering Pipelines](https://www.designgurus.io/course-play/grokking-the-data-engineering-interview/doc/monitoring-and-recovering-pipelines?utm_source=github&utm_medium=repo&utm_campaign=data-engineering-interview&utm_content=questions-design-a-data-quality-monitoring-system), in Grokking the Data Engineering Interview
 - [Orchestration](../concepts/orchestration.md) explains where a blocking check sits in a pipeline.
